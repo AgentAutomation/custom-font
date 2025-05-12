@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'EditorsNote-BoldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/AgentAutomation/custom-font/Editor%27sNote-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
